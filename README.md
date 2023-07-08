@@ -36,12 +36,12 @@ We have below microservice:
       }
 
 
-  **Once you inserted some data in MySQL , proceed as below**
+     **Once you inserted some data in MySQL , proceed as below**
 
-   1. clone all these repos in local system and open it using any IDE.
-   2. Start all the servers one by one.
-   3. Once ALl are started- try to access **http://localhost:8761/**  ,You will be able to see all the servers details registered to Eureka service registry.
-   4. Open Post and call API : **http://localhost:9005/employeeRm/remote/getFeignEmployee/1**   [before running this application insert some data to your DB]
+      1. clone all these repos in local system and open it using any IDE.
+      2. Start all the servers one by one.
+      3. Once ALl are started- try to access **http://localhost:8761/**  ,You will be able to see all the servers details registered to Eureka service registry.
+      4. Open Post and call API : **http://localhost:9005/employeeRm/remote/getFeignEmployee/1**   [before running this application insert some data to your DB]
 
       
   
