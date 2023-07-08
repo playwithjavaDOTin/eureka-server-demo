@@ -1,0 +1,12 @@
+[submodule "springboot-ureka-server"]
+	path = springboot-ureka-server
+	url = https://github.com/playwithjavaDOTin/springboot-ureka-server.git
+[submodule "eureka-client-app-first"]
+	path = eureka-client-app-first
+	url = https://github.com/playwithjavaDOTin/eureka-client-app-first.git
+[submodule "eureka-client-app-two"]
+	path = eureka-client-app-two
+	url = https://github.com/playwithjavaDOTin/eureka-client-app-two.git
+[submodule "feign-load-balancer-ureka-client"]
+	path = feign-load-balancer-ureka-client
+	url = https://github.com/playwithjavaDOTin/feign-load-balancer-ureka-client.git
